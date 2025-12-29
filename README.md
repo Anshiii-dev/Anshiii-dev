@@ -1,21 +1,17 @@
-#💫 About Me
+## 💫 About Me
 
-I am an AI & Machine Learning Engineer with 1.2 years of hands-on industry experience.
-Currently, I am working at Nexterse, a software-based company, where I design and develop intelligent AI-driven solutions.
+I am an **AI & Machine Learning Engineer** with **1.2 years of hands-on industry experience**.  
+Currently, I am working at **Nexterse**, a **software-based company**, where I design and develop intelligent AI-driven solutions.
 
-I have strong practical exposure to a wide range of AI & ML tools and technologies, including:
+I have strong practical exposure to a wide range of **AI & ML tools and technologies**, including:
+- Machine Learning & Deep Learning  
+- Computer Vision and model training  
+- Conversational AI & Voice Bots  
+- Real-time systems and AI automation  
+- Model deployment and production integration  
 
-Machine Learning & Deep Learning
+I am passionate about **building scalable AI systems**, continuously learning new technologies, and turning complex problems into efficient, real-world solutions.
 
-Computer Vision and model training
-
-Conversational AI & Voice Bots
-
-Real-time systems and AI automation
-
-Model deployment and integration in production environments
-
-I am passionate about building scalable AI systems, continuously learning new technologies, and turning complex problems into efficient, real-world solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Anas Saleem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_sarcastic_anas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anas Saleem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anssaleem504@gmail.com) 
